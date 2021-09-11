@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "Javascripts/musicPlayer"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
