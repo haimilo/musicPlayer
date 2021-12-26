@@ -46,7 +46,7 @@ const app = {
         {
             name: 'Qua Ta',
             singer: 'Hades & BlackT',
-            path: './assest/music/song2.mp3',
+            path: 'https://data25.chiasenhac.com/download2/2207/1/2206490-67cccb4c/128/Buoc%20Qua%20Nhau%20-%20Vu.mp3',
             image: './assest/img/song2.png'
         },
         {
